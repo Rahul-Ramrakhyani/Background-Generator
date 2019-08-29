@@ -45,10 +45,10 @@ h3 {
     transition: ease-in-out 200ms; 
 }
 
-.random:hover {
+/*.random:hover {
     color: #eee;
     background-color: #222;
-}
+}*/
 
 [type="color"] {
     background-color: #222;
