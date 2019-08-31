@@ -33,6 +33,18 @@ h3 {
     text-transform: none;
 }
 
+footer{
+   background-color: transparent;
+    font: 'Montserrat';
+    text-transform: none;
+    text-align: right;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    height: 2.0em;
+    letter-spacing: 0.1em;
+}
+
 .random {
     background-color: transparent;
     border: 5px solid #222;
