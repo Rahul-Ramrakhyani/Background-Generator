@@ -1,0 +1,29 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background Generator Created while learning \"Complete Web Developer in 2019: Zero to Mastery\"",
+  "main": "Bgcolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Ramrakhyani/background-generator.git"
+  },
+  "keywords": [
+    "Background",
+    "generator",
+    "Gradient",
+    "color",
+    "picker",
+    "Color",
+    "picker",
+    "tool"
+  ],
+  "author": "Rahul Ramrakhyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Ramrakhyani/background-generator/issues"
+  },
+  "homepage": "https://github.com/Rahul-Ramrakhyani/background-generator#readme"
+}
